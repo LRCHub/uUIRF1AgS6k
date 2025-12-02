@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "春風",
+  "base_artist": "アイビーカラー",
+  "createdAt": "2025-12-02T15:41:49.714012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春風 - Alternative",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/01_春風_-_Alternative_Quruli.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春風 - Alternative",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/02_春風_-_Alternative_くるり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "Rihwa",
+      "has_synced": true,
+      "path": "select/03_春風_Rihwa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/04_春風_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春風 〜Good-bye Again〜",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/05_春風_〜Good-bye_Again〜_2PM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春風 ~Good-bye Again~",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/06_春風_~Good-bye_Again~_2PM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "春風 SHUN PU",
+      "artist": "豊崎 愛生",
+      "has_synced": true,
+      "path": "select/07_春風_SHUN_PU_豊崎_愛生.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "春風 SHUN PU",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/08_春風_SHUN_PU_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/09_春風_wacci.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/10_春風_くるり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/11_春風_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "春風 feat. Noa",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/12_春風_feat._Noa_LGYankees.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/13_春風_sumika.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/14_春風_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "DOBERMAN INFINITY",
+      "has_synced": true,
+      "path": "select/15_春風_DOBERMAN_INFINITY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "春風",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/16_春風_家入レオ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春風",
+      "artist": "アイビーカラー",
+      "has_synced": false,
+      "path": "select/pl_01_春風_アイビーカラー.txt"
+    }
+  ]
+}
